@@ -1,3 +1,9 @@
+## Links
+
+- GitHub URL: [GitHub Link](https://github.com/MomanyiPoet/Frontend_Mentor_Solutions/tree/main/0x01-blog-preview-card)
+- Live Site URL: [Vercel](https://blog-preview-card-omega-mocha.vercel.app/)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
