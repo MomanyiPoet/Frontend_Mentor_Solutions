@@ -7,8 +7,8 @@ function Card() {
     <div className='max-w-sm font-Figtree mx-4 border border-darky rounded-2xl bg-whity card-shadow'>
 
       <div className='p-6'>
-        <div>
-          <img src={illustration} alt="illustrator" className='rounded-xl' />
+        <div className='hover:scale-105 transition duration-300 ease-in-out'>
+          <img src={illustration} alt="illustrator" className='rounded-xl cursor-pointer' />
         </div>
 
         <div className='py-6 text-darky'>
@@ -23,7 +23,7 @@ function Card() {
 
           <div className='flex flex-col py-2 space-y-2'>
             <div className='text-2xl font-bold'>
-              <h4>HTML & CSS foundations</h4>
+              <h4 className='cursor-pointer hover:underline'>HTML & CSS foundations</h4>
             </div>
             <div className='text-secondary'>
               <p>
@@ -36,10 +36,10 @@ function Card() {
 
         <div className='flex items-center -space-x-5'>
           <div>
-            <img src={avatar} alt="avatar" className='w-1/2'/>
+            <img src={avatar} alt="avatar" className='w-1/2 cursor-pointer'/>
           </div>
           <div className='font-bold text-md md:text-sm'>
-            <h5>Greg Hooper</h5>
+            <h5 className='cursor-pointer hover:underline'>Greg Hooper</h5>
           </div>
         </div>
 
