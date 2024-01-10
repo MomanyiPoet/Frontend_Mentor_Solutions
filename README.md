@@ -1,4 +1,4 @@
-## Frontend Mentor Solved Challenges
+# Frontend Mentor Solved Challenges
 
 ## Welcome! 👋
 
@@ -12,3 +12,5 @@ Thanks for checking out this front-end coding challenge.
 
 - 00x01 Blog Preview Card Solution
 > Built in HTML, Tailwind CSS and React
+
+![Alt text](0x00-assets/images/Card.png)
