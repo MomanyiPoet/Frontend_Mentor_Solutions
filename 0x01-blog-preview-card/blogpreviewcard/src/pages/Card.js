@@ -23,7 +23,7 @@ function Card() {
 
           <div className='flex flex-col py-2 space-y-2'>
             <div className='text-2xl font-bold'>
-              <h4 className='cursor-pointer hover:underline'>HTML & CSS foundations</h4>
+              <h1 className='cursor-pointer hover:underline'>HTML & CSS foundations</h1>
             </div>
             <div className='text-secondary'>
               <p>
