@@ -1,4 +1,7 @@
-import Card from './pages/Card'
+import Card from './pages/Card';
+import { inject } from '@vercel/analytics';
+ 
+inject();
 
 function App() {
   return (
