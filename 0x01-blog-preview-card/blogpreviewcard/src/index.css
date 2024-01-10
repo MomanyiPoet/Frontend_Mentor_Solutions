@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  background-color: #f4d04e;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-shadow {
+  box-shadow: 8px 8px #121212;
+}
