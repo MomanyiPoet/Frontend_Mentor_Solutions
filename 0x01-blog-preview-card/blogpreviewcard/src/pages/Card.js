@@ -39,7 +39,7 @@ function Card() {
             <img src={avatar} alt="avatar" className='w-1/2 cursor-pointer'/>
           </div>
           <div className='font-bold text-md md:text-sm'>
-            <h5 className='cursor-pointer hover:underline'>Greg Hooper</h5>
+            <p className='cursor-pointer hover:underline'>Greg Hooper</p>
           </div>
         </div>
 
